@@ -1,0 +1,542 @@
+[
+    {
+        "id": 1,
+        "conteúdo": "Gostei muito do curso! 😄",
+        "data de criação": "2024-05-15",
+        "usuario": "aluno1",
+        "tempo_na_plataforma": "3 meses",
+        "curso": "Introdução ao Python",
+        "área": "Programação"
+    },
+    {
+        "id": 2,
+        "conteúdo": "Este curso é uma perda de tempo! 😡",
+        "data de criação": "2024-05-16",
+        "usuario": "aluno2",
+        "tempo_na_plataforma": "1 mês",
+        "curso": "Redes de Computadores",
+        "área": "Infraestrutura"
+    },
+    {
+        "id": 3,
+        "conteúdo": "Adorei!!! https://cursoexcelente.com",
+        "data de criação": "2024-05-17",
+        "usuario": "aluno3",
+        "tempo_na_plataforma": "6 meses",
+        "curso": "Data Science",
+        "área": "Dados"
+    },
+    {
+        "id": 4,
+        "conteúdo": "NAO RECOMENDO!!!!!! PESSIMO CURSO",
+        "data de criação": "2024-05-18",
+        "usuario": "aluno4",
+        "tempo_na_plataforma": "2 meses",
+        "curso": "Docker para Iniciantes",
+        "área": "DevOps"
+    },
+    {
+        "id": 5,
+        "conteúdo": "aBCDefGHijklMNop",
+        "data de criação": "2024-05-19",
+        "usuario": "aluno5",
+        "tempo_na_plataforma": "4 meses",
+        "curso": "Kubernetes Avançado",
+        "área": "DevOps"
+    },
+    {
+        "id": 6,
+        "conteúdo": "O conteudo é bom, mas o professor fala mto rápido.",
+        "data de criação": "2024-05-20",
+        "usuario": "aluno6",
+        "tempo_na_plataforma": "1 ano",
+        "curso": "Introdução ao SQL",
+        "área": "Dados"
+    },
+    {
+        "id": 7,
+        "conteúdo": "O curso é OK. Nao gostei mto do formato.",
+        "data de criação": "2024-05-21",
+        "usuario": "aluno7",
+        "tempo_na_plataforma": "2 semanas",
+        "curso": "HTML e CSS Básico",
+        "área": "Programação"
+    },
+    {
+        "id": 8,
+        "conteúdo": "Vale a pena fazer. Aprendi bastante sobre redes.",
+        "data de criação": "2024-05-22",
+        "usuario": "aluno8",
+        "tempo_na_plataforma": "3 meses",
+        "curso": "Redes de Computadores",
+        "área": "Infraestrutura"
+    },
+    {
+        "id": 9,
+        "conteúdo": "Pqp, que curso mais chato.",
+        "data de criação": "2024-05-23",
+        "usuario": "aluno9",
+        "tempo_na_plataforma": "5 meses",
+        "curso": "Desenvolvimento Web",
+        "área": "Programação"
+    },
+    {
+        "id": 10,
+        "conteúdo": "ldkjflkdjflkdsjflkdsjflkdsjflkdsjf",
+        "data de criação": "2024-05-24",
+        "usuario": "aluno10",
+        "tempo_na_plataforma": "1 mês",
+        "curso": "Engenharia de Dados",
+        "área": "Dados"
+    },
+    {
+        "id": 11,
+        "conteúdo": "Curso excelente! Professor bem didático. 👍",
+        "data de criação": "2024-05-25",
+        "usuario": "aluno11",
+        "tempo_na_plataforma": "6 meses",
+        "curso": "Introdução ao Python",
+        "área": "Programação"
+    },
+    {
+        "id": 12,
+        "conteúdo": "Não gostei da metodologia de ensino.",
+        "data de criação": "2024-05-26",
+        "usuario": "aluno12",
+        "tempo_na_plataforma": "3 semanas",
+        "curso": "Redes de Computadores",
+        "área": "Infraestrutura"
+    },
+    {
+        "id": 13,
+        "conteúdo": "Muito conteúdo relevante!",
+        "data de criação": "2024-05-27",
+        "usuario": "aluno13",
+        "tempo_na_plataforma": "2 meses",
+        "curso": "Data Science",
+        "área": "Dados"
+    },
+    {
+        "id": 14,
+        "conteúdo": "Achei o curso confuso.",
+        "data de criação": "2024-05-28",
+        "usuario": "aluno14",
+        "tempo_na_plataforma": "4 semanas",
+        "curso": "Docker para Iniciantes",
+        "área": "DevOps"
+    },
+    {
+        "id": 15,
+        "conteúdo": "Recomendo para todos que querem aprender programação!",
+        "data de criação": "2024-05-29",
+        "usuario": "aluno15",
+        "tempo_na_plataforma": "5 meses",
+        "curso": "Introdução ao Python",
+        "área": "Programação"
+    },
+    {
+        "id": 16,
+        "conteúdo": "Não vale o preço.",
+        "data de criação": "2024-05-30",
+        "usuario": "aluno16",
+        "tempo_na_plataforma": "1 mês",
+        "curso": "Kubernetes Avançado",
+        "área": "DevOps"
+    },
+    {
+        "id": 17,
+        "conteúdo": "5 estrelas! ⭐⭐⭐⭐⭐",
+        "data de criação": "2024-06-01",
+        "usuario": "aluno17",
+        "tempo_na_plataforma": "3 semanas",
+        "curso": "Introdução ao SQL",
+        "área": "Dados"
+    },
+    {
+        "id": 18,
+        "conteúdo": "Curso mediano.",
+        "data de criação": "2024-06-02",
+        "usuario": "aluno18",
+        "tempo_na_plataforma": "2 meses",
+        "curso": "HTML e CSS Básico",
+        "área": "Programação"
+    },
+    {
+        "id": 19,
+        "conteúdo": "Aprendi bastante com este curso, obrigado!",
+        "data de criação": "2024-06-03",
+        "usuario": "aluno19",
+        "tempo_na_plataforma": "4 meses",
+        "curso": "Desenvolvimento Web",
+        "área": "Programação"
+    },
+    {
+        "id": 20,
+        "conteúdo": "Precisa de mais exemplos práticos.",
+        "data de criação": "2024-06-04",
+        "usuario": "aluno20",
+        "tempo_na_plataforma": "5 semanas",
+        "curso": "Engenharia de Dados",
+        "área": "Dados"
+    },
+    {
+        "id": 21,
+        "conteúdo": "A plataforma é ótima!",
+        "data de criação": "2024-06-05",
+        "usuario": "aluno21",
+        "tempo_na_plataforma": "6 meses",
+        "curso": "Introdução ao Python",
+        "área": "Programação"
+    },
+    {
+        "id": 22,
+        "conteúdo": "NÃO CONSEGUI ENTENDER NADA.",
+        "data de criação": "2024-06-06",
+        "usuario": "aluno22",
+        "tempo_na_plataforma": "3 semanas",
+        "curso": "Redes de Computadores",
+        "área": "Infraestrutura"
+    },
+    {
+        "id": 23,
+        "conteúdo": "Bom conteúdo, mas precisa de mais profundidade.",
+        "data de criação": "2024-06-07",
+        "usuario": "aluno23",
+        "tempo_na_plataforma": "4 meses",
+        "curso": "Data Science",
+        "área": "Dados"
+    },
+    {
+        "id": 24,
+        "conteúdo": "O professor é muito bom, mas a plataforma é ruim.",
+        "data de criação": "2024-06-08",
+        "usuario": "aluno24",
+        "tempo_na_plataforma": "1 ano",
+        "curso": "Docker para Iniciantes",
+        "área": "DevOps"
+    },
+    {
+        "id": 25,
+        "conteúdo": "Curso muito básico.",
+        "data de criação": "2024-06-09",
+        "usuario": "aluno25",
+        "tempo_na_plataforma": "2 meses",
+        "curso": "Kubernetes Avançado",
+        "área": "DevOps"
+    },
+    {
+        "id": 26,
+        "conteúdo": "EXCELENTE CURSO! RECOMENDO!",
+        "data de criação": "2024-06-10",
+        "usuario": "aluno26",
+        "tempo_na_plataforma": "3 meses",
+        "curso": "Introdução ao SQL",
+        "área": "Dados"
+    },
+    {
+        "id": 27,
+        "conteúdo": "O curso foi uma bosta. O instrutor não sabe explicar! 😠",
+        "data de criação": "2024-06-11",
+        "usuario": "aluno27",
+        "tempo_na_plataforma": "4 semanas",
+        "curso": "HTML e CSS Básico",
+        "área": "Programação"
+    },
+    {
+        "id": 28,
+        "conteúdo": "Curso meh, esperava mais.",
+        "data de criação": "2024-06-12",
+        "usuario": "aluno28",
+        "tempo_na_plataforma": "5 meses",
+        "curso": "Desenvolvimento Web",
+        "área": "Programação"
+    },
+    {
+        "id": 29,
+        "conteúdo": "APrendo MUITO com esse curso! 😄",
+        "data de criação": "2024-06-13",
+        "usuario": "aluno29",
+        "tempo_na_plataforma": "1 mês",
+        "curso": "Engenharia de Dados",
+        "área": "Dados"
+    },
+    {
+        "id": 30,
+        "conteúdo": "HORRÍVEL! NÃO COMPREM ESSE CURSO!",
+        "data de criação": "2024-06-14",
+        "usuario": "aluno30",
+        "tempo_na_plataforma": "6 meses",
+        "curso": "Introdução ao Python",
+        "área": "Programação"
+    },
+    {
+        "id": 31,
+        "conteúdo": "Muito bom, mas o instrutor fala muito devagar.",
+        "data de criação": "2024-06-15",
+        "usuario": "aluno31",
+        "tempo_na_plataforma": "3 semanas",
+        "curso": "Redes de Computadores",
+        "área": "Infraestrutura"
+    },
+    {
+        "id": 32,
+        "conteúdo": "Detestei! Pura perda de tempo!",
+        "data de criação": "2024-06-16",
+        "usuario": "aluno32",
+        "tempo_na_plataforma": "4 meses",
+        "curso": "Data Science",
+        "área": "Dados"
+    },
+    {
+        "id": 33,
+        "conteúdo": "Top! 👍",
+        "data de criação": "2024-06-17",
+        "usuario": "aluno33",
+        "tempo_na_plataforma": "1 ano",
+        "curso": "Docker para Iniciantes",
+        "área": "DevOps"
+    },
+    {
+        "id": 34,
+        "conteúdo": "Professor sem didática nenhuma! 😡",
+        "data de criação": "2024-06-18",
+        "usuario": "aluno34",
+        "tempo_na_plataforma": "2 meses",
+        "curso": "Kubernetes Avançado",
+        "área": "DevOps"
+    },
+    {
+        "id": 35,
+        "conteúdo": "Gostei muito, mas poderia ter mais exemplos práticos.",
+        "data de criação": "2024-06-19",
+        "usuario": "aluno35",
+        "tempo_na_plataforma": "3 meses",
+        "curso": "Introdução ao SQL",
+        "área": "Dados"
+    },
+    {
+        "id": 36,
+        "conteúdo": "O curso é bom, mas a plataforma é lenta.",
+        "data de criação": "2024-06-20",
+        "usuario": "aluno36",
+        "tempo_na_plataforma": "4 semanas",
+        "curso": "HTML e CSS Básico",
+        "área": "Programação"
+    },
+    {
+        "id": 37,
+        "conteúdo": "Aprendi muito, obrigado!",
+        "data de criação": "2024-06-21",
+        "usuario": "aluno37",
+        "tempo_na_plataforma": "5 meses",
+        "curso": "Desenvolvimento Web",
+        "área": "Programação"
+    },
+    {
+        "id": 38,
+        "conteúdo": "Que curso chato, pelo amor de Deus.",
+        "data de criação": "2024-06-22",
+        "usuario": "aluno38",
+        "tempo_na_plataforma": "1 mês",
+        "curso": "Engenharia de Dados",
+        "área": "Dados"
+    },
+    {
+        "id": 39,
+        "conteúdo": "Não vale o que paguei.",
+        "data de criação": "2024-06-23",
+        "usuario": "aluno39",
+        "tempo_na_plataforma": "6 meses",
+        "curso": "Introdução ao Python",
+        "área": "Programação"
+    },
+    {
+        "id": 40,
+        "conteúdo": "INCRÍVEL!!! Recomendo a todos.",
+        "data de criação": "2024-06-24",
+        "usuario": "aluno40",
+        "tempo_na_plataforma": "3 semanas",
+        "curso": "Redes de Computadores",
+        "área": "Infraestrutura"
+    },
+    {
+        "id": 41,
+        "conteúdo": "Não gostei do curso! 👎👎👎",
+        "data de criação": "2024-06-25",
+        "usuario": "aluno41",
+        "tempo_na_plataforma": "1 mês",
+        "curso": "Data Science",
+        "área": "Dados"
+    },
+    {
+        "id": 42,
+        "conteúdo": "Curso maravilhoso, mas precisa melhorar o áudio! 😅",
+        "data de criação": "2024-06-26",
+        "usuario": "aluno42",
+        "tempo_na_plataforma": "3 meses",
+        "curso": "Docker para Iniciantes",
+        "área": "DevOps"
+    },
+    {
+        "id": 43,
+        "conteúdo": "Péssimo, não aprendi nada. 🤬",
+        "data de criação": "2024-06-27",
+        "usuario": "aluno43",
+        "tempo_na_plataforma": "6 meses",
+        "curso": "Kubernetes Avançado",
+        "área": "DevOps"
+    },
+    {
+        "id": 44,
+        "conteúdo": "https://naorecomendo.com - Perda de tempo!",
+        "data de criação": "2024-06-28",
+        "usuario": "aluno44",
+        "tempo_na_plataforma": "1 ano",
+        "curso": "Introdução ao SQL",
+        "área": "Dados"
+    },
+    {
+        "id": 45,
+        "conteúdo": "Curso é bom, mas tem muita enrolação. 😕",
+        "data de criação": "2024-06-29",
+        "usuario": "aluno45",
+        "tempo_na_plataforma": "2 meses",
+        "curso": "HTML e CSS Básico",
+        "área": "Programação"
+    },
+    {
+        "id": 46,
+        "conteúdo": "NÃO ENTENDI NADA, PROFESSOR HORRÍVEL!!!",
+        "data de criação": "2024-06-30",
+        "usuario": "aluno46",
+        "tempo_na_plataforma": "3 semanas",
+        "curso": "Desenvolvimento Web",
+        "área": "Programação"
+    },
+    {
+        "id": 47,
+        "conteúdo": "akjdlfkjasdklfjasdflkajsdflkjasdflkj",
+        "data de criação": "2024-07-01",
+        "usuario": "aluno47",
+        "tempo_na_plataforma": "4 meses",
+        "curso": "Engenharia de Dados",
+        "área": "Dados"
+    },
+    {
+        "id": 48,
+        "conteúdo": "Amei o curso, muito bom mesmo! 😍",
+        "data de criação": "2024-07-02",
+        "usuario": "aluno48",
+        "tempo_na_plataforma": "5 meses",
+        "curso": "Introdução ao Python",
+        "área": "Programação"
+    },
+    {
+        "id": 49,
+        "conteúdo": "O curso é ok, mas não é incrível.",
+        "data de criação": "2024-07-03",
+        "usuario": "aluno49",
+        "tempo_na_plataforma": "6 meses",
+        "curso": "Redes de Computadores",
+        "área": "Infraestrutura"
+    },
+    {
+        "id": 50,
+        "conteúdo": "ODIEI o professor, muito confuso. 😠",
+        "data de criação": "2024-07-04",
+        "usuario": "aluno50",
+        "tempo_na_plataforma": "1 mês",
+        "curso": "Data Science",
+        "área": "Dados"
+    },
+    {
+        "id": 51,
+        "conteúdo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "data de criação": "2024-07-05",
+        "usuario": "aluno51",
+        "tempo_na_plataforma": "2 meses",
+        "curso": "Docker para Iniciantes",
+        "área": "DevOps"
+    },
+    {
+        "id": 52,
+        "conteúdo": "CURSO MUITO BOM, RECOMENDO!",
+        "data de criação": "2024-07-06",
+        "usuario": "aluno52",
+        "tempo_na_plataforma": "3 semanas",
+        "curso": "Kubernetes Avançado",
+        "área": "DevOps"
+    },
+    {
+        "id": 53,
+        "conteúdo": "Não gostei do formato das aulas.",
+        "data de criação": "2024-07-07",
+        "usuario": "aluno53",
+        "tempo_na_plataforma": "4 meses",
+        "curso": "Introdução ao SQL",
+        "área": "Dados"
+    },
+    {
+        "id": 54,
+        "conteúdo": "O curso é muito bom, mas a plataforma é horrível. 😤",
+        "data de criação": "2024-07-08",
+        "usuario": "aluno54",
+        "tempo_na_plataforma": "5 meses",
+        "curso": "HTML e CSS Básico",
+        "área": "Programação"
+    },
+    {
+        "id": 55,
+        "conteúdo": "AprenDO muito com esse curso!!! 👍👍",
+        "data de criação": "2024-07-09",
+        "usuario": "aluno55",
+        "tempo_na_plataforma": "6 meses",
+        "curso": "Desenvolvimento Web",
+        "área": "Programação"
+    },
+    {
+        "id": 56,
+        "conteúdo": "Nao entendi nada, tudo muito rápido.",
+        "data de criação": "2024-07-10",
+        "usuario": "aluno56",
+        "tempo_na_plataforma": "1 mês",
+        "curso": "Engenharia de Dados",
+        "área": "Dados"
+    },
+    {
+        "id": 57,
+        "conteúdo": "Não vale o preço que cobram.",
+        "data de criação": "2024-07-11",
+        "usuario": "aluno57",
+        "tempo_na_plataforma": "2 meses",
+        "curso": "Introdução ao Python",
+        "área": "Programação"
+    },
+    {
+        "id": 58,
+        "conteúdo": "Gostei muito, mas tem alguns erros nas aulas.",
+        "data de criação": "2024-07-12",
+        "usuario": "aluno58",
+        "tempo_na_plataforma": "3 semanas",
+        "curso": "Redes de Computadores",
+        "área": "Infraestrutura"
+    },
+    {
+        "id": 59,
+        "conteúdo": "Que droga de curso, odiei. 🤬",
+        "data de criação": "2024-07-13",
+        "usuario": "aluno59",
+        "tempo_na_plataforma": "4 meses",
+        "curso": "Data Science",
+        "área": "Dados"
+    },
+    {
+        "id": 60,
+        "conteúdo": "Muito bom, vou recomendar para meus amigos. 😄",
+        "data de criação": "2024-07-14",
+        "usuario": "aluno60",
+        "tempo_na_plataforma": "5 meses",
+        "curso": "Docker para Iniciantes",
+        "área": "DevOps"
+    }
+]
