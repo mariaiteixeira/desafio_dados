@@ -1,6 +1,8 @@
 # Análise de comentários de um base fictícia de cursos
 Para o **Projeto de Desenvolvimento Compartilhado** do time das damas de dados do Suporte Educacional, foi utilizada uma base com comentários fictícios de alguns cursos de programação.
 
+<img src="https://i.imgur.com/swZPlhS.gif" alt="Dashboards contendo informações sobre os cursos avaliados pela base do projeto">
+
 ## Sobre o projeto
 O projeto foi com o foco em **análise de dados**. Para lidar com a base, tratamos e limpamos os dados, criamos um arquivo CSV e subimos para o Power BI. Nele, implementamos algumas páginas para novos dashboards apresentando os dados.
 
@@ -21,7 +23,7 @@ O projeto foi com o foco em **análise de dados**. Para lidar com a base, tratam
 ## Como reproduzir este repositório?
 Você pode clonar o repositório para sua máquina, utilizando o comando `git clone`. Após isso, abra o notebook e os dashboards no Power BI localmente.
 
-Você também pode ver o notebook no Colab [aqui](https://colab.research.google.com/github/mariaiteixeira/desafio_dados/blob/desenvolvimento/Desafio_Data_Science.ipynb#scrollTo=s-3ZAg1hh2zy) e os dashboards online [aqui]().
+Você também pode ver o notebook no Colab [aqui](https://colab.research.google.com/github/mariaiteixeira/desafio_dados/blob/desenvolvimento/Desafio_Data_Science.ipynb#scrollTo=s-3ZAg1hh2zy) e os dashboards online [aqui](https://app.powerbi.com/view?r=eyJrIjoiNjE4MTBhMjYtNDZlYy00OWJkLWEwYTEtOGU4NGRiNTliNmI2IiwidCI6ImIwMTEzMzNkLTNhZWEtNGZlOS05NWNmLTE4NWM4ODBlYTU1NSJ9).
 
 ## Licença
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
