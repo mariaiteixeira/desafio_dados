@@ -1,0 +1,57 @@
+﻿,conteúdo,data_de_criacao,curso,área,meses_plataforma,id_usuario,nota (1 a 5)
+0,gostei muito do curso ,15-05-2024,Introdução ao Python,Programação,3.0,1,5 
+1,este curso é uma perda de tempo ,16-05-2024,Redes de Computadores,Infraestrutura,1.0,2,1 
+2,adorei cursoexcelente,17-05-2024,Data Science,Dados,6.0,3,5 
+3,nao recomendo pessimo curso,18-05-2024,Docker para Iniciantes,DevOps,2.0,4,1 
+4,o conteudo é bom mas o professor fala mto rápido,20-05-2024,Introdução ao SQL,Dados,12.0,6,3 
+5,o curso é ok nao gostei mto do formato,21-05-2024,HTML e CSS Básico,Programação,0.5,7,3 
+6,vale a pena fazer aprendi bastante sobre redes,22-05-2024,Redes de Computadores,Infraestrutura,3.0,8,4 
+7,pqp que curso mais chato,23-05-2024,Desenvolvimento Web,Programação,5.0,9,3 
+8,curso excelente professor bem didático ,25-05-2024,Introdução ao Python,Programação,6.0,11,5 
+9,não gostei da metodologia de ensino,26-05-2024,Redes de Computadores,Infraestrutura,0.75,12,1 
+10,muito conteúdo relevante,27-05-2024,Data Science,Dados,2.0,13,5 
+11,achei o curso confuso,28-05-2024,Docker para Iniciantes,DevOps,1.0,14,3 
+12,recomendo para todos que querem aprender programação,29-05-2024,Introdução ao Python,Programação,5.0,15,4 
+13,não vale o preço,30-05-2024,Kubernetes Avançado,DevOps,1.0,16,1 
+14,5 estrelas ,01-06-2024,Introdução ao SQL,Dados,0.75,17,5 
+15,curso mediano,02-06-2024,HTML e CSS Básico,Programação,2.0,18,3 
+16,aprendi bastante com este curso obrigado,03-06-2024,Desenvolvimento Web,Programação,4.0,19,4 
+17,precisa de mais exemplos práticos,04-06-2024,Engenharia de Dados,Dados,1.0,20,3 
+18,a plataforma é ótima,05-06-2024,Introdução ao Python,Programação,6.0,21,2 
+19,não consegui entender nada,06-06-2024,Redes de Computadores,Infraestrutura,0.75,22,1 
+20,bom conteúdo mas precisa de mais profundidade,07-06-2024,Data Science,Dados,4.0,23,3 
+21,o professor é muito bom mas a plataforma é ruim,08-06-2024,Docker para Iniciantes,DevOps,12.0,24,3 
+22,curso muito básico,09-06-2024,Kubernetes Avançado,DevOps,2.0,25,3 
+23,excelente curso recomendo,10-06-2024,Introdução ao SQL,Dados,3.0,26,5 
+24,o curso foi uma bosta o instrutor não sabe explicar ,11-06-2024,HTML e CSS Básico,Programação,1.0,27,1 
+25,curso meh esperava mais,12-06-2024,Desenvolvimento Web,Programação,5.0,28,3 
+26,aprendo muito com esse curso ,13-06-2024,Engenharia de Dados,Dados,1.0,29,5 
+27,horrível não comprem esse curso,14-06-2024,Introdução ao Python,Programação,6.0,30,1 
+28,muito bom mas o instrutor fala muito devagar,15-06-2024,Redes de Computadores,Infraestrutura,0.75,31,4 
+29,detestei pura perda de tempo,16-06-2024,Data Science,Dados,4.0,32,1 
+30,top ,17-06-2024,Docker para Iniciantes,DevOps,12.0,33,5 
+31,professor sem didática nenhuma ,18-06-2024,Kubernetes Avançado,DevOps,2.0,34,1 
+32,gostei muito mas poderia ter mais exemplos práticos,19-06-2024,Introdução ao SQL,Dados,3.0,35,3 
+33,o curso é bom mas a plataforma é lenta,20-06-2024,HTML e CSS Básico,Programação,1.0,36,3 
+34,aprendi muito obrigado,21-06-2024,Desenvolvimento Web,Programação,5.0,37,5 
+35,que curso chato pelo amor de deus,22-06-2024,Engenharia de Dados,Dados,1.0,38,5 
+36,não vale o que paguei,23-06-2024,Introdução ao Python,Programação,6.0,39,1 
+37,incrível recomendo a todos,24-06-2024,Redes de Computadores,Infraestrutura,0.75,40,5 
+38,não gostei do curso ,25-06-2024,Data Science,Dados,1.0,41,1 
+39,curso maravilhoso mas precisa melhorar o áudio ,26-06-2024,Docker para Iniciantes,DevOps,3.0,42,4 
+40,péssimo não aprendi nada ,27-06-2024,Kubernetes Avançado,DevOps,6.0,43,1 
+41,naorecomendo  perda de tempo,28-06-2024,Introdução ao SQL,Dados,12.0,44,1 
+42,curso é bom mas tem muita enrolação ,29-06-2024,HTML e CSS Básico,Programação,2.0,45,3 
+43,não entendi nada professor horrível,30-06-2024,Desenvolvimento Web,Programação,0.75,46,1 
+44,amei o curso muito bom mesmo ,02-07-2024,Introdução ao Python,Programação,5.0,48,5 
+45,o curso é ok mas não é incrível,03-07-2024,Redes de Computadores,Infraestrutura,6.0,49,3 
+46,odiei o professor muito confuso ,04-07-2024,Data Science,Dados,1.0,50,1 
+47,curso muito bom recomendo,06-07-2024,Kubernetes Avançado,DevOps,0.75,52,5 
+48,não gostei do formato das aulas,07-07-2024,Introdução ao SQL,Dados,4.0,53,2 
+49,o curso é muito bom mas a plataforma é horrível ,08-07-2024,HTML e CSS Básico,Programação,5.0,54,3 
+50,aprendo muito com esse curso ,09-07-2024,Desenvolvimento Web,Programação,6.0,55,5 
+51,nao entendi nada tudo muito rápido,10-07-2024,Engenharia de Dados,Dados,1.0,56,1 
+52,não vale o preço que cobram,11-07-2024,Introdução ao Python,Programação,2.0,57,1 
+53,gostei muito mas tem alguns erros nas aulas,12-07-2024,Redes de Computadores,Infraestrutura,0.75,58,4 
+54,que droga de curso odiei ,13-07-2024,Data Science,Dados,4.0,59,1 
+55,muito bom vou recomendar para meus amigos ,14-07-2024,Docker para Iniciantes,DevOps,5.0,60,5 
