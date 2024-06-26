@@ -19,9 +19,9 @@ O projeto foi com o foco em **análise de dados**. Para lidar com a base, tratam
 <img height="20" src="https://img.shields.io/badge/Google_Colaboratory-darkorange"> <img height="20" src="https://img.shields.io/badge/Pandas-turquoise"> <img height="20" src="https://img.shields.io/badge/Power%20BI-yellow"> <img height="20" src="https://img.shields.io/badge/Transformers-lightgrey"> <img height="20" src="https://img.shields.io/badge/Python-yellow">
 
 ## Como reproduzir este repositório?
-Você pode clonar o repositório para sua máquina, utilizando o comando `git clone`. Após isso, abra o notebook e os dashboards do Power BI localmente.
+Você pode clonar o repositório para sua máquina, utilizando o comando `git clone`. Após isso, abra o notebook e os dashboards no Power BI localmente.
 
-Você também pode ver o notebook no Colab [aqui]() e os dashboards online [aqui]().
+Você também pode ver o notebook no Colab [aqui](https://colab.research.google.com/github/mariaiteixeira/desafio_dados/blob/desenvolvimento/Desafio_Data_Science.ipynb#scrollTo=s-3ZAg1hh2zy) e os dashboards online [aqui]().
 
 ## Licença
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
